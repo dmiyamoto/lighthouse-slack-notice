@@ -1,5 +1,5 @@
 {
-  "name": "lighthosuse-automation-notice",
+  "name": "lighthosuse-slack-notice",
   "version": "1.0.0",
   "description": "lighthouse自動チェック用のリポジトリです",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/handsshare/lighthosuse-automation-notice.git"
+    "url": "git+https://github.com/dmiyamoto/lighthosuse-slack-notice.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/handsshare/lighthosuse-automation-notice/issues"
+    "url": "https://github.com/dmiyamoto/lighthosuse-slack-notice/issues"
   },
-  "homepage": "https://github.com/handsshare/lighthosuse-automation-notice#readme",
+  "homepage": "https://github.com/dmiyamoto/lighthosuse-slack-notice#readme",
   "dependencies": {
     "async": "^3.0.1",
     "asyncawait": "^1.0.8",
