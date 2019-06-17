@@ -1,0 +1,37 @@
+{
+  "name": "lighthosuse-automation-notice",
+  "version": "1.0.0",
+  "description": "lighthouse自動チェック用のリポジトリです",
+  "main": "index.js",
+  "engines": {
+    "node": "10.x",
+    "npm": "6.x"
+  },
+  "scripts": {
+    "lighthouse": "node bin/script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handsshare/lighthosuse-automation-notice.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/handsshare/lighthosuse-automation-notice/issues"
+  },
+  "homepage": "https://github.com/handsshare/lighthosuse-automation-notice#readme",
+  "dependencies": {
+    "async": "^3.0.1",
+    "asyncawait": "^1.0.8",
+    "child_process": "^1.0.2",
+    "chrome-launcher": "^0.10.7",
+    "chrome-remote-interface": "^0.27.2",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "google-spreadsheet": "^2.0.7",
+    "https": "^1.0.0",
+    "lighthouse": "^5.1.0",
+    "util": "^0.12.0"
+  }
+}
