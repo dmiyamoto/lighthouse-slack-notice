@@ -31,7 +31,7 @@
     "express": "^4.17.1",
     "google-spreadsheet": "^2.0.7",
     "https": "^1.0.0",
-    "lighthouse": "^5.1.0",
+    "lighthouse": "^9.6.7",
     "util": "^0.12.0"
   }
 }
